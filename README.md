@@ -190,6 +190,7 @@ Click "File Save"
 * Check the status of your masternode within the VPS by using the command below:
 
 `coinname-cli getinfo`
+
 `coinname-cli masternode status`
 
 *You should see ***Masternode Successfully Started***
